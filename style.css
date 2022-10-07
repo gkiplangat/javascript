@@ -23,21 +23,24 @@ body {
     box-shadow: 0 0 5px rgba(0, 0, 0, .5);
     padding: 40px 30px;
 }
-
-.container .login-email .input-group {
-    width: 100%;
-    height: 50px;
-    margin-bottom: 25px;
-}
-
-.container .login-email .input-group input {
-    width: 100%;
+.container-exams{
     height: 100%;
-    border: 2px solid #e7e7e7;
-    padding: 15px 20px;
-    font-size: 1rem;
-    border-radius: 30px;
-    background: transparent;
-    outline: none;
-    transition: .3s;
+    background: olivedrab;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, .5);
+    padding: 40px 30px;
 }
+.container-exams h1,h4{
+    text-align: center;
+}
+.container-exams h5{
+    text-align: right;
+}
+.container-exams p{
+    padding: 5px;
+    text-align: left;
+}
+input {
+    display: block;
+}
+
