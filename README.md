@@ -4,3 +4,4 @@ This is my javascript learning Journey and Practice
 * [Objects and Functions](objects-and-functions.js)
 * [If Else Statements](if-else.js)
 * [Logical Operators](logical-operators.js)
+* [Rock Paper Scissor](rock-paper_scissor.js)
