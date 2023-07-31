@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.main {
+    margin-top: 100px;
+    text-align: center;
+}
+.card {
+    background-color: purple;
+    border: 3px solid purple;
+    border-radius: 5px;
+    max-width: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+p {
+    color:white;
+}
+button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3px;
+    margin-bottom: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
