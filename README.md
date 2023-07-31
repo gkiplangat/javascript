@@ -1,2 +1,2 @@
 This is my javascript learning code
-[Arrays](arrays.js)
+* [Arrays](arrays.js)
