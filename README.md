@@ -6,3 +6,4 @@ This is my javascript learning Journey and Practice
 * [Logical Operators](logical-operators.js)
 * [Rock Paper Scissor](rock-paper_scissor.js)
 * [Emoji Fighters](emoji-figters)
+* [Fruits Sorting](sortfruits)
